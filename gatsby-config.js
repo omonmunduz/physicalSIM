@@ -1,8 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `SkyGo
+    Global SIM`,
+    description: `SkyGo
+    Global SIM and Global Packages
+    One world. One operator. One affordable price. Get internet connection in 100+ countries worldwide, with a validity of 180 days.`,
+    author: `Omur Nazar`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
